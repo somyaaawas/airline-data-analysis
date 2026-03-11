@@ -1,0 +1,8 @@
+data/flights.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.streamlit/
+outputs/
+*.egg-info/
+.DS_Store
