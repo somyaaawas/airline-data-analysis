@@ -1,4 +1,4 @@
-# Airline Flights Data Analysis
+# Airline Flights Data Analysis..
 
 This project analyzes airline flight data to understand delay patterns,
 airline performance, and airport traffic.
@@ -38,4 +38,5 @@ streamlit run dashboard/app.py
 data/           Dataset
 src/            Analysis scripts
 dashboard/      Streamlit dashboard
+
 outputs/        Generated plots
