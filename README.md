@@ -25,7 +25,7 @@ Clone repository
 
 pip install -r requirements.txt
 
-## Run Analysis!!
+## Run Analysis
 
 python main.py
 
